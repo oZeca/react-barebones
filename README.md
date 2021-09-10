@@ -1,5 +1,5 @@
 # react-barebones
-*Barebones to run react.* 
+### Barebones to run react. 
 Guided by https://medium.com/@JedaiSaboteur/creating-a-react-app-from-scratch-f3c693b84658, addapted some versions to more recent ones.
 
 Versions of dependencies when project was created:
