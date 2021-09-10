@@ -6,4 +6,4 @@ Versions of dependencies when project was created:
 - react: 17.0.2
 - babel-core: 7.15.5
 - webpack: 5.52.1
-- node 16.9.0
+- node: 16.9.0
